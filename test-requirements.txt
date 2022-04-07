@@ -1,0 +1,4 @@
+nox~=2022.1.7
+flake8~=4.0.1
+parameterized~=0.8.1
+setuptools~=60.2.0
